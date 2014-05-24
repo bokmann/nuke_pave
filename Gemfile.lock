@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    nuke_pave (0.0.1)
+    nuke_pave (1.0.0)
       rails (>= 3.2)
 
 GEM
