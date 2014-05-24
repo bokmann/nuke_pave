@@ -1,0 +1,5 @@
+= NukePave
+
+Nukes and paves your database, with safeguards to avoid accidentally doing it in production.
+
+I've copied and pasted this rake task between projects for years... its time to grow up.
